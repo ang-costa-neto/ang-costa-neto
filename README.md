@@ -8,6 +8,7 @@ Hi, my name is Angelo, and I'm a developer from Brazil 🇧🇷.
 
 ### Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/angelo-costa-n)
+- [X](https://x.com/@AngCostaNeto)
 
 Feel free to explore my repositories and projects. I'm always open to collaborating on interesting projects and sharing knowledge with fellow developers. Thank you for visiting my GitHub profile!
 
